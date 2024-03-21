@@ -8,6 +8,7 @@
 # Features
 - [x] Minimalist
 - [x] Productive
+- [x] Responsive 
 
 # Settings
 
