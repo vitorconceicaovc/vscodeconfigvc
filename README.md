@@ -1,9 +1,13 @@
 <h1 align="center">My VSCode settings</h1>
-<small align="center">Minimalist and productive setup</small>
 
 <p align="center">
-    <a href="#requirements">Settings</a> 
+    <a href="#features">Features</a> |
+    <a href="#settings">Settings</a> 
 </p>
+
+# Features
+- [x] Minimalist
+- [x] Productive
 
 # Settings
 
